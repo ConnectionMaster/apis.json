@@ -4,19 +4,24 @@
   "url": "https://raw.githubusercontent.com/pandorabots/apis.json/master/apis.json",
   "image": "http://i1275.photobucket.com/albums/y444/djordanfried/pb-logo-med_zps2eff9a0a.png",
   "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "AI as a Service",
+      "description": "Create chatbots for deployment on web-enabled devices.",
+      "baseURL": "https://aiaas.pandorabots.com",
+      "humanURL": "https://developer.pandorabots.com"
+    }
+  ],
   "maintainers": [
     {
-      "FN": "Daniel Fried",
-      "email": "support@pandorabots.com",
-      "X-github": "djfdev"
+      "FN": ""
     }
   ],
   "tags": [
+    "AI",
     "Pandorabots",
-    "Chatbot",
     "Natural language processing",
-    "API",
-    "AI"
+    "Chatbots"
   ],
   "include": [],
   "created": "2014-11-24",
