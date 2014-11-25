@@ -1,0 +1,24 @@
+{
+  "name": "Pandorabots API",
+  "description": "API for integrating Pandorabots AI and Natural Language Processing into your application.",
+  "url": "https://developer.pandorabots.com/apis.json",
+  "image": "http://i1275.photobucket.com/albums/y444/djordanfried/pb-logo-med_zps2eff9a0a.png",
+  "specificationVersion": "0.14",
+  "maintainers": [
+    {
+      "FN": "Daniel Fried",
+      "email": "support@pandorabots.com",
+      "X-github": "djfdev"
+    }
+  ],
+  "tags": [
+    "Pandorabots",
+    "Chatbot",
+    "Natural language processing",
+    "API",
+    "AI"
+  ],
+  "include": [],
+  "created": "2014-11-24",
+  "modified": "2014-11-24"
+}
