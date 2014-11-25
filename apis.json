@@ -1,30 +1,55 @@
 {
   "name": "Pandorabots",
-  "description": "API for integrating Pandorabots AI and Natural Language Processing into your application.",
-  "url": "https://raw.githubusercontent.com/pandorabots/apis.json/master/apis.json",
+  "description": "PI for integrating Pandorabots AI and Natural Language Processing into your application.",
   "image": "http://i1275.photobucket.com/albums/y444/djordanfried/pb-logo-med_zps2eff9a0a.png",
-  "specificationVersion": "0.14",
-  "apis": [
-    {
-      "name": "Pandorabots API",
-      "description": "API for creating and hosting chat bots.",
-      "baseURL": "aiaas.pandorabots.com",
-      "humanURL": "developer.pandorabots.com"
-    }
-  ],
-  "maintainers": [
-    {
-      "FN": "Pandorabots",
-      "email": "support@pandorabots.com"
-    }
-  ],
   "tags": [
+    "application programming interface",
     "API",
     "AI",
     "Natural language processing",
-    "Pandorabots"
+    "AIML",
+    "chatbot"
   ],
-  "include": [],
   "created": "2014-11-25",
-  "modified": "2014-11-25"
+  "modified": "2014-11-25",
+  "url": "https://raw.githubusercontent.com/pandorabots/apis.json/master/apis.json",
+  "SpecificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "Pandorabots API",
+      "description": "Allows the creation, hosting, and deployment of AIML-based chatbots."
+      "image": "http://i1275.photobucket.com/albums/y444/djordanfried/pb-logo-med_zps2eff9a0a.png",
+      "humanURL": "http://developer.pandorabots.com",
+      "baseURL": "http://aiaas.pandorabots.com",
+      "tags": [
+        "AI",
+        "Natural language processing",
+        "AIML",
+        "API",
+        "Application Programming Interface"
+      ],
+      "properties": [
+        {
+          "type": "X-signup",
+          "url": "https://developer.pandorabots.com/"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Pandorabots API team",
+          "email": "support@pandorabots.com"
+        }
+      ]
+    },
+  ],
+
+  "include": [
+
+  ],
+  "maintainers": [
+    {
+      "FN": "Pandorabots API team",
+      "email": "support@pandorabots.com"
+    }
+  ]
 }
