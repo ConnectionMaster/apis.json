@@ -13,7 +13,7 @@
   "created": "2014-11-25",
   "modified": "2014-11-25",
   "url": "http://apievangelist.com/apis.json",
-  "SpecificationVersion": "0.14",
+  "specificationVersion": "0.14",
   "apis": [
     {
       "name": "Pandorabots API",
