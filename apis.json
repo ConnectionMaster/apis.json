@@ -12,12 +12,12 @@
   ],
   "created": "2014-11-25",
   "modified": "2014-11-25",
-  "url": "https://raw.githubusercontent.com/pandorabots/apis.json/master/apis.json",
+  "url": "http://apievangelist.com/apis.json",
   "SpecificationVersion": "0.14",
   "apis": [
     {
       "name": "Pandorabots API",
-      "description": "Allows the creation, hosting, and deployment of AIML-based chatbots."
+      "description": "Allows the creation, hosting, and deployment of AIML-based chatbots.",
       "image": "http://i1275.photobucket.com/albums/y444/djordanfried/pb-logo-med_zps2eff9a0a.png",
       "humanURL": "http://developer.pandorabots.com",
       "baseURL": "http://aiaas.pandorabots.com",
@@ -40,12 +40,9 @@
           "email": "support@pandorabots.com"
         }
       ]
-    },
+    }
   ],
 
-  "include": [
-
-  ],
   "maintainers": [
     {
       "FN": "Pandorabots API team",
